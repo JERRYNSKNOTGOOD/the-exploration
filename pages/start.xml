@@ -1,4 +1,4 @@
-<page id="start" bg_image="" bg_music="osts-retro-forest.mp3">
+<page id="start" bg_image="" bg_music="">
   <agent
     id="tittlegame"
     text="The millions ways to die"
