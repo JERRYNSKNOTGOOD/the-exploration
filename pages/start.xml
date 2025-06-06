@@ -10,10 +10,9 @@
 
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
+    text="PLAY"
+    y="430"
+    x="center"
     on_click="goToPage('middle')"
   />
 </page>
