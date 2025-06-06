@@ -1,11 +1,11 @@
 <page id="middle" bg_image="" bg_music="">
   <agent
-    id="teste"
-    text="Hello World Middle"
+    id="first_phrase"
+    text=""
     color="white"
     x="center"
-    y="center"
-    font-size="70"
+    y="500"
+    font-size="10"
   />
 
   <agent
