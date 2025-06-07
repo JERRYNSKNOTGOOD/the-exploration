@@ -9,6 +9,16 @@
     font-size="10"
   />
   </fab-if>
+  <fab-if when="$choose_final_number = 0">
+    
+   <agent
+     id = "msgfinal"
+     x = "center"
+     y = "center"
+     text="Eu elogio as suas roupas e um caminhão inadvertidamente me atropela e joga todos os meus miolos em direção ao meu chefe. Só o chefe foi ao meu velório."
+     />
+  </fab-if>
+  <fab-if when="$chos"
   <agent
     id="chooseelogiar"
     text="ELOGIA-LO"
