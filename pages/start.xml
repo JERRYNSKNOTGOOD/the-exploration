@@ -1,7 +1,7 @@
 <page id="start" bg_image="" bg_music="osts-retro-forest.mp3">
   <agent
     id="tittlegame"
-    text="The millions ways to die"
+    text="The exploration"
     color="white"
     x="center"
     y="center"
