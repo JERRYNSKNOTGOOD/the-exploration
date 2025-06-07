@@ -14,7 +14,14 @@
     y="center"
     x="280"
     font-size="30"
-    on_click="goToPage('ending')"
-    
+    on_click="goToPage('ending')"   
   />
+  <agent
+    id="choose_socar"
+    text="SOCAR"
+    font-size="30"
+    y="center"
+    x="400"
+    
+    />
 </page>
