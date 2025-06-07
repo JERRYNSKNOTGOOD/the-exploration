@@ -1,6 +1,6 @@
 <fable>
   <config font-family="Roboto" />
-  <property name="choose_final_number" default="0" />
+  <property name="choose_final_number" default="3" />
 
   <start />
   <middle />
