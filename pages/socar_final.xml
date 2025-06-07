@@ -1,3 +1,8 @@
 <page id="socar_final" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página socar_final" color="white" font-size="24" />
+  <agent id="titulo" 
+    x="center" 
+    y="center" 
+    text="Dou-lhe um soco" 
+    color="white" 
+    font-size="24" />
 </page>
