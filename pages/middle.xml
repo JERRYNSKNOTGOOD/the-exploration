@@ -22,6 +22,7 @@
     font-size="30"
     y="center"
     x="400"  
+    on_click="goToPage('socar_final')"
     />
  <agent
    id="choose_beijar"
@@ -29,6 +30,7 @@
    y="340"
    x="280"
    font-size="30"
+   on_click="goToPage('beijar_end')"
    />
 <agent
   id="choose_silencio"
@@ -36,6 +38,7 @@
   y="340"
   x="400"
   font-size="30"
+  on_click="goToPage('silencio_end')"
   />
 
 
