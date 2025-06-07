@@ -9,8 +9,8 @@
   />
 
   <agent
-    id="next_page_text"
-    text="Proxima Pagina"
+    id="choose_mentir"
+    text="MENTIR"
     y="480"
     x="640"
     on_click="goToPage('ending')"
