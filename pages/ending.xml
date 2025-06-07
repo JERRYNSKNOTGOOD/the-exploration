@@ -20,5 +20,18 @@
     x = "380" 
     y="480"
     text="OLHAR PARA A DIREITA"
+    on_click = "set(choose_final_number, 1)"
     />
+  <agent 
+    id = "chooserude"
+    y = "500"
+    x = "280"
+    on_click = "set(choose_final_number, 2)"
+    
+    />
+
+
+
+
+  
 </page>
