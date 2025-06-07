@@ -1,4 +1,5 @@
 <page id="ending" bg_image="" bg_music="">
+  <fab-if when="$choose_final_number = 3">
   <agent
     id="teste"
     text="Marcamos de sair na sexta-feira, numa lanchonete chamada 'decosta's lanches Araçagy'. Cá estamos agora, ele veio equipado com uma roupa bem formosa: paletó, sapatênis preto de luxo da Puma e uma calça jeans com detalhes emocore. E eu... não vem ao caso. Enfim, aqui estávamos, mas ele não falava nada, então resolvi quebrar o gelo."
@@ -7,7 +8,7 @@
     y="center"
     font-size="10"
   />
-
+  </fab-if>
   <agent
     id="chooseelogiar"
     text="ELOGIA-LO"
