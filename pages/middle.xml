@@ -4,8 +4,8 @@
     text="Meu nome é João Ítalo, tenho 18 anos e trabalho no Matheus. O meu supervisor viu eu fumar um vape escondido e agora veio me cobrar, o que eu faço?"
     color="white"
     x="center"
-    y="500"
-    font-size="10"
+    y="0"
+    font-size="20"
   />
 
   <agent
