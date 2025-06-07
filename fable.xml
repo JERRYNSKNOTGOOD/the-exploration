@@ -1,7 +1,7 @@
 <fable>
   <config font-family="Roboto" />
 
-  <property name="finals" default="['']" />
+  <property name="finals" default="['Resolvi elogia-lo, porque suas roupas são bem atraentes no final, ele sorri para mim. Divertimos-nos muito aquele dia, talvez eu repitava dose.']" />
   <property name="choose_final_number" default="0" />
 
   <start />
@@ -13,4 +13,4 @@
   <beijar_end/>
   
   
-</fable>
+</fable>s
