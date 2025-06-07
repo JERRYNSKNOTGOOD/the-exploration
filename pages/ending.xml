@@ -24,7 +24,7 @@
     />
   <agent 
     id = "chooserude"
-    y = "500"
+    y = "540"
     x = "280"
     text="AGIR DE FORMA RUDE"
     on_click = "set(choose_final_number, 2)"
