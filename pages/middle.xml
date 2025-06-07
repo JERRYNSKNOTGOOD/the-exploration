@@ -13,6 +13,8 @@
     text="MENTIR"
     y="480"
     x="640"
+    font-size="30"
     on_click="goToPage('ending')"
+    
   />
 </page>
