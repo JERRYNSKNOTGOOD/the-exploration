@@ -1,6 +1,8 @@
 <page id="beijar_end" bg_color="black">
   <agent id="titulo" x="center" y="center" 
-    text="" 
+    text="O Homem parrudo me olhava com desdém... Fechei meus olhos e respirei:
+    -Chefe, eu te amo! - falei com loucura no olhar-.
+    " 
     color="white" 
     font-size="24" />
 </page>
