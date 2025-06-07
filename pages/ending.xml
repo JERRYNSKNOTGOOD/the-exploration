@@ -27,6 +27,12 @@
       />
   </fab-if>
   <fab-if when="$choose_final_number = 2">
+    <agent 
+      id = "msg rude"
+      x = "center"
+      y = "center"
+      text="Ajo rudemente e sou espancado até a morte."
+      />
     
 </fab-if>
   <agent
