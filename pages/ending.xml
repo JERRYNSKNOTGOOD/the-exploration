@@ -15,4 +15,7 @@
     x="280"
     on_click="set(choose_final_number, 0)"
   />
+  <agent
+    id=""
+    />
 </page>
