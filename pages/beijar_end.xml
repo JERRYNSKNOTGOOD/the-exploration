@@ -1,3 +1,6 @@
 <page id="beijar_end" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página beijar_end" color="white" font-size="24" />
+  <agent id="titulo" x="center" y="center" 
+    text="" 
+    color="white" 
+    font-size="24" />
 </page>
