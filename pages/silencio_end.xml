@@ -2,12 +2,11 @@
   <agent id="titulo" x="center" y="center" 
     text="Fico calado e de cara fechada. De certo modo pareceu funcionar, contudo, a medida que proliferava mais e mais esporros contra mim, sua face avermelhava, bufava incontrolavelmente e fechava a mão de forma violenta, eu engoli seco. Após minha ação bateu com seu punho sobre minha mesa que acabou se desestabilizando em mil pedacinhos... O susto foi tão grande que morri de ataque cardíaco. Ninguém fez um funeral para mim."/>
    <agent
-     id="msgsilencio"
+     id="msgreset"
      x="center"
      y = "480"
      text="RESET"
-     on_click=""
+     on_click="goToPage('start')   
+     color="white" 
      />
-    
-    color="white" font-size="24" />
 </page>
