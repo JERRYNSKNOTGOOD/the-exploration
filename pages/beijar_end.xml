@@ -7,4 +7,11 @@
     Lasquei-me bonito, mas era isso ou morrer de fome." 
     color="white" 
     font-size="24" />
+  <agent 
+    id="msgbeijar"
+    text = "PRÓXIMO"
+    x = "center"
+    y = "480"
+    
+    />
 </page>
