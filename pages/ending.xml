@@ -17,6 +17,8 @@
   />
   <agent
     id="choose_direita"
-    
+    x = "480"
+    y="340"
+    text="OLHAR PARA A DIREITA"
     />
 </page>
