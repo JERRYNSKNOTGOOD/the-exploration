@@ -14,7 +14,7 @@
     y="center"
     x="280"
     font-size="30"
-    on_click="goToPage('ending')"   
+    on_click="goToPage('mentir_final')"   
   />
   <agent
     id="choose_socar"
