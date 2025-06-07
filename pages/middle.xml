@@ -21,7 +21,31 @@
     text="SOCAR"
     font-size="30"
     y="center"
-    x="400"
-    
+    x="400"  
     />
+ <agent
+   id="choose_beijar"
+   text="BEIJAR"
+   y="340"
+   x="280"
+   font-size="30"
+   />
+<agent
+  id="choose_silencio"
+  text="SILÊNCIO"
+  y="340"
+  x="400"
+  font-size="30"
+  />
+
+
+
+
+
+
+
+
+
+
+  
 </page>
