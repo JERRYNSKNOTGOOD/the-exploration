@@ -1,3 +1,13 @@
 <page id="mentir_final" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página mentir_final" color="white" font-size="24" />
+  <agent id="titulo" x="center" y="center" 
+    text="Eu minto para o supervisor dizendo que forçaram o vape na minha boca, mas eu estava sozinho e ele sabia, logo era uma mentira muito mal feita. O meu superior, com raiva, deu-me um soco na cara e me demitiu. Dias depois acabei por morrer de fome." 
+    color="white" 
+    font-size="24" />
+  <agent
+    id="back"
+    text="RESET"
+    y="480"
+    x="center"
+    on_click="goToPage(''"
+    />
 </page>
