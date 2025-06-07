@@ -12,6 +12,6 @@
     text = "PRÓXIMO"
     x = "center"
     y = "480"
-    
+    on_click = "goToPage('ending')"
     />
 </page>
