@@ -10,10 +10,9 @@
 
   <agent
     id="chooseelogiar"
-    text="Primeira Pagina"
-    animation="glitch"
+    text="ELOGIA-LO"
     y="480"
-    x="640"
+    x="280"
     on_click="set(choose_final_number, 0)"
   />
 </page>
